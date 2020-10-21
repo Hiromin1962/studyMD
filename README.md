@@ -15,10 +15,10 @@ Prototype for the next-generation provisioning tool in Node.js
 Usage: boxinputtools [options] [command]
 
 Options:   
-  -V, --version       output the version number   
-  -h, --help          display help for command  
+	-V, --version       output the version number   
+	-h, --help          display help for command  
 
 Commands:  
-  fromLDAP [options]  Get all folders under the root folder for the user, or the specified folder  
-  fromCSV [options]   Get all folders under the root folder for the user, or the specified folder  
-  help [command]      display help for command  
+	fromLDAP [options]  Get all folders under the root folder for the user, or the specified folder  
+	fromCSV [options]   Get all folders under the root folder for the user, or the specified folder  
+	help [command]      display help for command
